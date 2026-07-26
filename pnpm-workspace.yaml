@@ -1,0 +1,8 @@
+minimumReleaseAgeExclude:
+  - "@lucid-softworks/cache-core@0.1.0"
+  - "@lucid-softworks/cache-store-memory@0.1.0"
+  - "@lucid-softworks/oxfmt-config@0.1.1"
+  - "@lucid-softworks/oxlint-config@0.1.0"
+  - "@lucid-softworks/singleflight@0.1.0"
+  - "@lucid-softworks/tsconfig@0.1.0"
+  - "@lucid-softworks/vitest-config@0.1.1"
