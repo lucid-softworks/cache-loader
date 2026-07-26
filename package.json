@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/cache-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Stampede-safe cache loading with TTL and stale-while-revalidate policies.",
   "keywords": [
     "cache",
